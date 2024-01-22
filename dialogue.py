@@ -32,4 +32,7 @@
 ## Dialogues have the following properties:
 ##  - name (string)
 ##  - id (int)
-##  - topics (list (int topc_id))
+##  - topics (list (int topc_id)) 
+##
+
+
