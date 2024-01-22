@@ -7,3 +7,4 @@
 ##  - name (string)
 ##  - id (int)
 ##  - user_id (int)
+##  - global_events (list (int event_id))
